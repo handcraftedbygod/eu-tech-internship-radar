@@ -1,9 +1,18 @@
 # EU Tech Internship Radar
 
-A daily-refreshing tracker of internship / working-student listings across major European tech
-hubs (Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki, Tallinn, Warsaw,
-Barcelona, Lisbon, Zurich). No hardcoded assumptions about nationality, visa status, or language -
-everything a filter cares about lives in `config/`.
+**A daily-refreshing tracker of internship & working-student listings across major European tech
+hubs** — Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki, Tallinn, Warsaw,
+Barcelona, Lisbon, and Zurich.
+
+### 🔗 [**View the live site → handcraftedbygod.github.io/eu-tech-internship-radar**](https://handcraftedbygod.github.io/eu-tech-internship-radar/)
+
+No sign-up, nothing to install — click the link above and the current listings are already there,
+refreshed automatically every day.
+
+![Screenshot of the dark-mode UI, showing the search bar, role/hub filter chips, and a sortable table of internship listings](docs/screenshot-dark.png)
+
+No hardcoded assumptions about nationality, visa status, or language — every filter lives in
+`config/` and is editable by anyone, not just the person who built this.
 
 Data comes only from public, ToS-friendly sources: Greenhouse/Lever/Ashby/Workday's public job
 board APIs for a curated list of companies, plus the Adzuna, Arbeitnow, and Remotive job APIs. No
@@ -70,6 +79,15 @@ produces `["internship"]`. A future new-grad or AI-jobs tracker adds a new key t
 `keywords.json.lists` (e.g. `"new-grad"`) and gets a second category — with zero changes to
 fetchers or pipeline code. Fetchers, config for companies/locations, storage, and the pipeline
 orchestration are all reusable as-is.
+
+## Frontend
+
+Plain HTML/CSS/JS, no framework, no build step. Dark is the default theme (falls back to your
+system preference on first visit), with a toggle in the header that remembers your choice via
+`localStorage`. Typography is [Geist](https://vercel.com/font) throughout. Quick filter chips for
+common role categories (Software Engineering, Data & Analytics, Product & Design, Business &
+Marketing) and for hub sit above a sortable, searchable table — everything reads from the single
+generated `web/data/jobs.json` file, so the whole frontend is static and cacheable.
 
 ## Running locally
 

@@ -1,22 +1,67 @@
+const ROLE_PRESETS = [
+  { label: "All roles", keywords: [] },
+  { label: "Software Engineering", keywords: ["software", "engineer", "developer", "backend", "frontend", "full stack", "devops"] },
+  { label: "Data & Analytics", keywords: ["data", "analytics", "analyst", "bi ", "machine learning", "ml "] },
+  { label: "Product & Design", keywords: ["product", "design", "ux", "ui "] },
+  { label: "Business & Marketing", keywords: ["marketing", "sales", "business", "growth", "operations"] },
+];
+
+// City-specific tokens only (no country-wide aliases like "Germany"/"France") so
+// the hub chips stay a clean ~13-city list instead of every raw location string
+// a source happens to report. Anything that doesn't match one of these falls
+// into "Other" rather than being force-bucketed into a same-country hub.
+const HUBS = [
+  { name: "Tallinn", match: ["tallinn"] },
+  { name: "Berlin", match: ["berlin"] },
+  { name: "Munich", match: ["munich", "münchen", "munchen"] },
+  { name: "Amsterdam", match: ["amsterdam"] },
+  { name: "Dublin", match: ["dublin"] },
+  { name: "London", match: ["london"] },
+  { name: "Paris", match: ["paris"] },
+  { name: "Stockholm", match: ["stockholm"] },
+  { name: "Helsinki", match: ["helsinki"] },
+  { name: "Warsaw", match: ["warsaw", "warszawa"] },
+  { name: "Barcelona", match: ["barcelona"] },
+  { name: "Lisbon", match: ["lisbon", "lisboa"] },
+  { name: "Zurich", match: ["zurich", "zürich"] },
+];
+const OTHER_HUB = "Other";
+
+function hubFor(job) {
+  const text = job.location.toLowerCase();
+  const hit = HUBS.find((hub) => hub.match.some((token) => text.includes(token)));
+  return hit ? hit.name : OTHER_HUB;
+}
+
 let allJobs = [];
 let sortKey = "postedDate";
 let sortDir = -1;
+let activeHub = "";
+let activeRole = ROLE_PRESETS[0].label;
 
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
-const hubFilter = document.getElementById("hub-filter");
+const hubChipsEl = document.getElementById("hub-chips");
+const roleChipsEl = document.getElementById("role-chips");
 const countEl = document.getElementById("count");
 const emptyState = document.getElementById("empty-state");
+const themeToggle = document.getElementById("theme-toggle");
+
+function matchesRole(job, roleLabel) {
+  if (roleLabel === ROLE_PRESETS[0].label) return true;
+  const preset = ROLE_PRESETS.find((r) => r.label === roleLabel);
+  const title = job.title.toLowerCase();
+  return preset.keywords.some((kw) => title.includes(kw));
+}
 
 function render() {
   const query = searchInput.value.trim().toLowerCase();
-  const hub = hubFilter.value;
 
   let rows = allJobs.filter((job) => {
     const matchesQuery =
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
-    const matchesHub = !hub || job.location.includes(hub);
-    return matchesQuery && matchesHub;
+    const matchesHub = !activeHub || hubFor(job) === activeHub;
+    return matchesQuery && matchesHub && matchesRole(job, activeRole);
   });
 
   rows.sort((a, b) => {
@@ -39,6 +84,7 @@ function render() {
 
   countEl.textContent = `${rows.length} listing${rows.length === 1 ? "" : "s"}`;
   emptyState.hidden = rows.length !== 0;
+  updateSortCarets();
 }
 
 function escapeHtml(str) {
@@ -49,14 +95,53 @@ function escapeAttr(str) {
   return escapeHtml(str);
 }
 
-function populateHubFilter() {
-  const hubs = [...new Set(allJobs.map((j) => j.location))].sort();
-  for (const hub of hubs) {
-    const opt = document.createElement("option");
-    opt.value = hub;
-    opt.textContent = hub;
-    hubFilter.appendChild(opt);
+function renderChips(container, labels, activeValue, onSelect) {
+  container.innerHTML = "";
+  for (const label of labels) {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "chip" + (label === activeValue ? " active" : "");
+    btn.textContent = label;
+    btn.addEventListener("click", () => onSelect(label));
+    container.appendChild(btn);
   }
+}
+
+function renderHubChips() {
+  const present = new Set(allJobs.map((j) => hubFor(j)));
+  const ordered = [...HUBS.map((h) => h.name), OTHER_HUB].filter((name) => present.has(name));
+  const labels = ["All hubs", ...ordered];
+  renderChips(hubChipsEl, labels, activeHub || "All hubs", (label) => {
+    activeHub = label === "All hubs" ? "" : label;
+    renderHubChips();
+    render();
+  });
+}
+
+function renderRoleChips() {
+  renderChips(
+    roleChipsEl,
+    ROLE_PRESETS.map((r) => r.label),
+    activeRole,
+    (label) => {
+      activeRole = label;
+      renderRoleChips();
+      render();
+    },
+  );
+}
+
+function updateSortCarets() {
+  document.querySelectorAll("th[data-key]").forEach((th) => {
+    const existing = th.querySelector(".caret");
+    if (existing) existing.remove();
+    if (th.dataset.key === sortKey) {
+      const caret = document.createElement("span");
+      caret.className = "caret";
+      caret.textContent = sortDir === 1 ? "▲" : "▼";
+      th.appendChild(caret);
+    }
+  });
 }
 
 document.querySelectorAll("th[data-key]").forEach((th) => {
@@ -73,13 +158,19 @@ document.querySelectorAll("th[data-key]").forEach((th) => {
 });
 
 searchInput.addEventListener("input", render);
-hubFilter.addEventListener("change", render);
+
+themeToggle.addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  localStorage.setItem("theme", next);
+});
 
 fetch("./data/jobs.json")
   .then((res) => res.json())
   .then((data) => {
     allJobs = data;
-    populateHubFilter();
+    renderHubChips();
+    renderRoleChips();
     render();
   })
   .catch(() => {
