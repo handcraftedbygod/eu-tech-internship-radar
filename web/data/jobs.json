@@ -1167,13 +1167,13 @@
   },
   {
     "id": "4099b3b62383c53323016a464929644f442a0925",
-    "title": "DevOps & Data Architecture - Intern",
+    "title": "DevOps & Data Architecture - Intern/Fulltime",
     "company": "Heidi Systems",
     "location": "Berlin",
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/devops-data-architecture-intern-berlin-457764",
     "source": "arbeitnow",
-    "postedDate": "2026-07-13T14:29:03.000Z",
+    "postedDate": "2026-07-17T15:29:02.000Z",
     "tags": [
       "intern"
     ],
@@ -1307,13 +1307,13 @@
   },
   {
     "id": "585ec81dec1f7f0430afb3a2bb4878679f31f273",
-    "title": "Danish Social Media Working Student (m/f/d)",
+    "title": "Working Student Social Media – Danish Market (m/f/d)",
     "company": "KoRo Handels GmbH",
     "location": "Berlin",
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/danish-social-media-working-student-berlin-64108",
     "source": "arbeitnow",
-    "postedDate": "2026-07-01T11:59:02.000Z",
+    "postedDate": "2026-07-17T15:29:02.000Z",
     "tags": [
       "working student"
     ],
@@ -1900,13 +1900,13 @@
   },
   {
     "id": "50e43b85412b239d48de57fd1be4c32d74cd6b88",
-    "title": "Software Engineer (Frontend) - Intern",
+    "title": "Software Engineer (Frontend) - Intern/Fulltime",
     "company": "Heidi Systems",
     "location": "Berlin",
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/frontend-developer-intern-berlin-337196",
     "source": "arbeitnow",
-    "postedDate": "2026-07-13T10:59:04.000Z",
+    "postedDate": "2026-07-17T12:59:02.000Z",
     "tags": [
       "intern"
     ],
@@ -1962,7 +1962,7 @@
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/internship-founders-associate-berlin-189073",
     "source": "arbeitnow",
-    "postedDate": "2026-07-13T15:29:03.000Z",
+    "postedDate": "2026-07-17T17:29:02.000Z",
     "tags": [
       "internship"
     ],
@@ -4776,7 +4776,7 @@
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-cfo-office-berlin-99479",
     "source": "arbeitnow",
-    "postedDate": "2026-07-15T16:00:24.000Z",
+    "postedDate": "2026-07-17T14:29:02.000Z",
     "tags": [
       "werkstudent"
     ],
@@ -4826,13 +4826,13 @@
   },
   {
     "id": "60c1b0371ba28906159c06e8c9fda877106a2a41",
-    "title": "Werkstudent:in Office & Feelgood Management (m/w/d) - Berlin",
+    "title": "Werkstudent:in Office Management (m/w/d) - Berlin",
     "company": "1KOMMA5˚",
     "location": "Berlin",
     "country": null,
     "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-office-feelgood-management-berlin-224417",
     "source": "arbeitnow",
-    "postedDate": "2026-07-15T12:30:38.000Z",
+    "postedDate": "2026-07-17T11:29:02.000Z",
     "tags": [
       "werkstudent"
     ],
@@ -5612,5 +5612,598 @@
       "werkstudent"
     ],
     "firstSeenAt": "2026-07-17T06:13:23.087Z"
+  },
+  {
+    "id": "6d21cb4b7a37a9f47a5e4348d930f2059b85399c",
+    "title": "Computer Vision Research Internship: Image to Sequence Modeling (e.g. Transformers)",
+    "company": "Scandit",
+    "location": "Zurich",
+    "country": null,
+    "url": "https://www.scandit.com/careers/job-description/?gh_jid=7434825",
+    "source": "greenhouse",
+    "postedDate": "2026-07-17T05:12:13-04:00",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "b6fda6a55f35ce1369a71604435c5b448ad98f5e",
+    "title": "Intern Insurance Customer Journey (Mandatory Internship)",
+    "company": "Mercedes-Benz AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5805162806?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=02581E432520A59FC2020AA4E2A4E69ECC86C775",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T22:37:50Z",
+    "tags": [
+      "intern",
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "6919f91e89cb48e058c34f9b03c0c746b9b47360",
+    "title": "Internship in High Precision Metrology (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5802035434?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=31FD4198704D7E27E184A4D62C10627FD827128F",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T03:07:23Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "c6cc839db998d0a6ee429fafea7b77852597df8a",
+    "title": "Internship Coating Development & Analysis (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5800862456?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=C39F542DCFC1A375D1890F5575DF25FD489461D3",
+    "source": "adzuna",
+    "postedDate": "2026-07-15T09:26:54Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "1351083967d7835b88ba1c91ce066873ff5dbb6f",
+    "title": "Junior / Senior ClimateTech Internship (m/f/d)",
+    "company": "NetZero GmbH",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5802885128?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=A5F90426DF711AE955E4774744BF6201AB7BF906",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T15:29:32Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "66db74584b7433b728dfa57f72ff1b12306daa86",
+    "title": "Associate Product Owner (m/w/d) (APO) Summer Internship",
+    "company": "CHECK24",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5798897083?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=005680C9199966396F4D80BCC3313B6F3A182630",
+    "source": "adzuna",
+    "postedDate": "2026-07-13T17:34:19Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "4db82906cd674da6eabfac127645ff6886172a35",
+    "title": "Internship Product and Workflow Management Refractive Lasers (f/m/x)",
+    "company": "ZEISS",
+    "location": "Jena, Thüringen",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5798895825?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=5876B21D133EB402DC1FA5CE1939DCAE13969770",
+    "source": "adzuna",
+    "postedDate": "2026-07-13T17:33:22Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "b644f122d325ab8f1b06e14fd6c6fffeffc0735b",
+    "title": "Internship Graphic & Communication Design (m/f/d)",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5805084181?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=74D6161F64E917C888397E8E68F110255C0E5070",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T19:12:23Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "d2be86abd884e99584ac7911ba096b909034f667",
+    "title": "Internship strategic procurement (f/m/d)",
+    "company": "Schneider Electric GmbH",
+    "location": "Regensburg, Regensburg (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5801437788?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=49B7F2786965A69F43350370DF8AE5D36EFD0A2C",
+    "source": "adzuna",
+    "postedDate": "2026-07-15T19:07:27Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "891b1770a04a6a87722a02d6a31d628fb8076874",
+    "title": "Intern Digital Extras Sales (Mandatory Internship)",
+    "company": "Mercedes-Benz AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5797109542?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=044D7C890F46A9DA21618567F1BED1A75815DE99",
+    "source": "adzuna",
+    "postedDate": "2026-07-11T19:04:01Z",
+    "tags": [
+      "intern",
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "662808b60813a3704196648a0fc283aeaecd973a",
+    "title": "Internship Strategic Projects (f/m/x)",
+    "company": "ZEISS",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5803505477?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=6320F940ADD9D3A2BBA358A382E2F2014B41DEFB",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T19:09:41Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "546ca35635b6873540e4e170af9cd858ec35ec65",
+    "title": "Internship in IT Communication starting September 2026",
+    "company": "Daimler Truck AG",
+    "location": "Leinfelden-Echterdingen, Esslingen (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5801440660?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=B2D5B2CFD9685CC33C70B57358AE27652126AD8D",
+    "source": "adzuna",
+    "postedDate": "2026-07-15T19:08:09Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "98ab6e2988ec98cb9330d44def4dfe87c177c7f9",
+    "title": "Intern MB.Charge Public North America & Analytics (Mandatory Internship)",
+    "company": "Mercedes-Benz AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5803500021?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=12498EE133F97536325AE78C4CBC86085B7CA47A",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T19:09:07Z",
+    "tags": [
+      "intern",
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "26b91204c7e432663beb0559942c439c6bfc6c7c",
+    "title": "Praktikum Vorentwicklung und Forschung - Robotik & Physical AI / Internship Intelligent Systems",
+    "company": "Alfred Kärcher SE & Co. KG",
+    "location": "Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5805082537?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=53E4C22E32E5255BA49EAC80C7C05767A2540A28",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T19:12:12Z",
+    "tags": [
+      "internship",
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "d10277e9017f9179a92b67f9372481e064ac4d39",
+    "title": "Praktikum / Internship Venture Clienting and Startup Investment",
+    "company": "Alfred Kärcher SE & Co. KG",
+    "location": "Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5801438991?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=225448D29F72C83BEAF87DD6413C29992746D43E",
+    "source": "adzuna",
+    "postedDate": "2026-07-15T19:07:38Z",
+    "tags": [
+      "internship",
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "fcca5e13273695354eedfa7707f40777a50b4f9c",
+    "title": "Business Development Public Charging Overseas & China (Mandatory Internship)",
+    "company": "Mercedes-Benz AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5800143163?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=9BE10D0F0B745A00BA538E7559B41D77F7BDCDEE",
+    "source": "adzuna",
+    "postedDate": "2026-07-14T19:07:47Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "35e441cbe880f51e3e18a8b0949329875faf94f0",
+    "title": "Internship International Business Development Management, Sales (Focus Italy)",
+    "company": "Italia Marketing GmbH",
+    "location": "Bonn, Nordrhein-Westfalen",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5801429104?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=C825F90FAF6084A80DABEF62A957B91769131500",
+    "source": "adzuna",
+    "postedDate": "2026-07-15T19:06:20Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "0dcff32bccc14b85af4d3f06df5feaec412e585f",
+    "title": "Internship in Data Engineer / Data Scientist for Innovation & Strategy (m/w/x)",
+    "company": "Kautex Textron GmbH & Co.KG",
+    "location": "Holzlar, Bonn",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5803499191?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=83A2F8060DD87AFD2F453812D61F4DB9A33CCDAE",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T19:09:00Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "401bdd61c0fb1faa31c025b2924934d9f1e9eb3b",
+    "title": "Internship in Motion Generation for Agricultural Robotics (f/m/x)",
+    "company": "ZEISS",
+    "location": "Eggenstein-Leopoldshafen, Karlsruhe (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5800142542?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=2C2E72FF5EC1201363E738D59E743504D92A1F9F",
+    "source": "adzuna",
+    "postedDate": "2026-07-14T19:07:41Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "319192b0bd42757fce0b46df9ec8094ab6103489",
+    "title": "Internship – Post Merger Integration (PMI) Excellence (f/m/x)",
+    "company": "ZEISS",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5800146072?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=85193865A99866061A7EFC9C41F56834D0A4C451",
+    "source": "adzuna",
+    "postedDate": "2026-07-14T19:08:20Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "81adc21fae37062895e59968dea0b506c692f2c5",
+    "title": "Strategic Finance Internship (m/f/d)",
+    "company": "Procter & Gamble",
+    "location": "Schwalbach am Taunus, Main-Taunus-Kreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5805166810?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=FBF94E755426EBC50B3B1E8F5B493FE5ABE9A4CE",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T22:46:45Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "b8c37e2bc8318b95254f064d4cd7de8ba5cf7ee0",
+    "title": "Internship In High Precision Metrology (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5802218492?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=F1D9C9E7D3C0F79BAF81A42320DF62610AC51564",
+    "source": "adzuna",
+    "postedDate": "2026-07-16T06:45:18Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "ecfdf24bcb5cf7a30ed64bb47b66331ecc82c276",
+    "title": "Internship Software Development Team for Medical Robotic Systems (f/m/x)",
+    "company": "ZEISS",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5800146785?se=VvHpU26C8RG-zvMsQ_EZNQ&utm_medium=api&utm_source=9141e2e6&v=127FC721EE60D867A4087253EA0A102BFF503B57",
+    "source": "adzuna",
+    "postedDate": "2026-07-14T19:08:31Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "45eab1805d01818f7acfb2bf492c52e22c007644",
+    "title": "Sales Internship",
+    "company": "Moyyn ",
+    "location": "Wedding, Berlin",
+    "country": "DE",
+    "url": "https://www.adzuna.de/details/5804577199?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T09:55:35Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "0a26e92f826ade919a9544eced3e04e413ad87c7",
+    "title": "Internship in Lean Management",
+    "company": "Lufthansa Technik Logistik Services GmbH",
+    "location": "Alsterdorf, Hamburg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/details/5805681802?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-18T04:54:08Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "80eef8682631fd0f55ff94bf5f25ac08191b9d75",
+    "title": "PASTRY INTERNSHIP",
+    "company": "Hosco",
+    "location": "Paris, Ile-de-France",
+    "country": "FR",
+    "url": "https://www.adzuna.fr/details/5804893313?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T14:54:11Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "789aaae198453674d489bd62cff21bf4034c7a33",
+    "title": "Insurance Legal - Internship",
+    "company": "Alan",
+    "location": "Paris, Ile-de-France",
+    "country": "FR",
+    "url": "https://www.adzuna.fr/details/5805361092?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-17T23:50:23Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "2cbf8ac1f8d210c625d008070905944c793cd3d8",
+    "title": "Internship in Talent Aquisition",
+    "company": "Schneider Electric",
+    "location": "Warszawa, mazowieckie",
+    "country": "PL",
+    "url": "https://www.adzuna.pl/details/5805594981?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-18T03:25:11Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "90a378f280b74c934b1016c104e035cfaa850001",
+    "title": "Werkstudent (all genders) | Controlling",
+    "company": "Ray Sono GmbH",
+    "location": "Munich",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/ray-sono-gmbh/werkstudent-all-genders-controlling-munich-462448",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T15:30:30.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "c02699eebd41ffc083b51d4a66b97c01a54d7e2a",
+    "title": "Werkstudent (all genders) | Finance",
+    "company": "Ray Sono GmbH",
+    "location": "Munich",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/ray-sono-gmbh/werkstudent-all-genders-finance-munich-394155",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T15:00:39.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "dc0fd24c3f43cc5b3d7b83a042bb4198eb8c29dc",
+    "title": "Werkstudent (all genders) | Controlling",
+    "company": "Ray Sono GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/ray-sono-gmbh/werkstudent-all-genders-controlling-berlin-55266",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T15:00:38.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "36c2553bd2534a0c764a6526537c4c06ececbdc4",
+    "title": "Social Media (Werkstudent)",
+    "company": "Kiwus Consulting GmbH",
+    "location": "Munich",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/kiwus-consulting-gmbh/social-media-werkstudent-munich-91568",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T13:00:34.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "e7093ad3a88c7a6c8daed6292cb5a51417e1b4fc",
+    "title": "Werkstudent Office Manager:in (m/f/d)",
+    "company": "hellomateo",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/werkstudent-office-managerin-berlin-24669",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T12:00:31.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "bcd4733527304c0ef98a16d705dcb432e540efb9",
+    "title": "Internship in Operations (all genders)",
+    "company": "Helpling GmbH & Co. KG",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/helpling-gmbh-co-kg/internship-in-operations-all-genders-berlin-436873",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T09:00:46.000Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "5fb1378d7d6597c419c6f542b5ee021f51197840",
+    "title": "Werkstudent:in Film & Festival Operations (Remote)",
+    "company": "Miralot",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/miralot/werkstudentin-film-festival-operations-remote-berlin-457853",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T08:30:41.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "7917b5d51d2090ebbc7a720eb290117775354c59",
+    "title": "Werkstudent E-Mail Marketing / CRM Manager (m/w/d)",
+    "company": "FT Fitness Technology GmbH",
+    "location": "Munich",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/ft-fitness-technology-gmbh/werkstudent-e-mail-marketing-crm-manager-munich-12036",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-17T08:01:49.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "273d6b7aee7dac1d86f088d95b35c3b8f2cfb1e6",
+    "title": "Werkstudent Medieninformatik & AI (m/w/d)",
+    "company": "mtc commerce GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/mtc-commerce-gmbh/werkstudent-medieninformatik-ai-berlin-419513",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-12T21:29:03.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "cb6775aa0274c91f4f37f26b71084775feef5b5e",
+    "title": "Werkstudent Digitale Medien & AI (m/w/d)",
+    "company": "mtc commerce GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/mtc-commerce-gmbh/werkstudent-digitale-medien-ai-berlin-251540",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-12T21:29:03.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "9c980530431c5de21e46987ce2b5cab4c9faa1f7",
+    "title": "Praktikum im Business Development (Projektmanagement & Prozessoptimierung) (m/w/d)",
+    "company": "Pflegia",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-im-business-development-projektmanagement-prozessoptimierung-berlin-93537",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-13T09:59:03.000Z",
+    "tags": [
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "ad321c72133c9a7e119787d9c85a796d634f1de3",
+    "title": "Praktikum im Business Development (Business Analyst/Automation Engineer/Applied AI Engineer) (m/w/d)",
+    "company": "Pflegia",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-im-business-development-business-analyst-automation-engineer-applied-ai-engineer-berlin-180476",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-13T08:29:02.000Z",
+    "tags": [
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "61102c7d4189970a1a76b4c5dc246fea127488df",
+    "title": "Praktikum im Onboarding Customer Success Management (m/w/d)",
+    "company": "Pflegia",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-im-onboarding-customer-success-management-berlin-205106",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-13T09:29:02.000Z",
+    "tags": [
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
+  },
+  {
+    "id": "41c277ddcf85c81b6c1546f331647ad42583c051",
+    "title": "Praktikum im Customer Success Management (m/w/d)",
+    "company": "Pflegia",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-im-candidate-success-management-berlin-434186",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-13T10:29:03.000Z",
+    "tags": [
+      "praktikum"
+    ],
+    "firstSeenAt": "2026-07-18T06:03:23.204Z"
   }
 ]
