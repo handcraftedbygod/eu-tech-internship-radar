@@ -4,6 +4,13 @@
   "private": true,
   "type": "module",
   "description": "Daily-refreshing internship tracker for European & North American tech hubs.",
+  "homepage": "https://handcraftedbygod.github.io/tech-internship-radar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handcraftedbygod/tech-internship-radar.git"
+  },
+  "license": "MIT",
+  "keywords": ["internship", "jobs", "tech", "students", "career"],
   "engines": {
     "node": ">=22"
   },
