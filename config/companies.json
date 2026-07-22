@@ -66,6 +66,7 @@
     {"name":"SoFi","source":"greenhouse","boardToken":"sofi"},
     {"name":"Faire","source":"greenhouse","boardToken":"faire"},
     {"name":"Duolingo","source":"greenhouse","boardToken":"duolingo"},
-    {"name":"Reddit","source":"greenhouse","boardToken":"reddit"}
+    {"name":"Reddit","source":"greenhouse","boardToken":"reddit"},
+    {"name":"Pinterest","source":"greenhouse","boardToken":"pinterest"}
   ]
 }
