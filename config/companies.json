@@ -79,6 +79,7 @@
     {"name":"Attentive","source":"lever","company":"attentive"},
     {"name":"Ramp","source":"lever","company":"ramp"},
     {"name":"Brex","source":"lever","company":"brex"},
-    {"name":"Plaid","source":"lever","company":"plaid"}
+    {"name":"Plaid","source":"lever","company":"plaid"},
+    {"name":"Shopify","source":"lever","company":"shopify"}
   ]
 }
