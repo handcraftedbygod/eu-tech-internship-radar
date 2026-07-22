@@ -18,6 +18,7 @@ CREATE TABLE IF NOT EXISTS jobs (
   posted_date   TEXT,
   salary        TEXT,
   season        TEXT,
+  advanced_degree INTEGER,
   tags          TEXT NOT NULL,
   categories    TEXT NOT NULL,
   first_seen_at TEXT NOT NULL,
@@ -30,8 +31,8 @@ CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_date);
 `;
 
 const UPSERT = `
-INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, season, tags, categories, first_seen_at, last_seen_at, fetched_at)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, season, advanced_degree, tags, categories, first_seen_at, last_seen_at, fetched_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(id) DO UPDATE SET
   external_id = excluded.external_id,
   title = excluded.title,
@@ -43,6 +44,7 @@ ON CONFLICT(id) DO UPDATE SET
   posted_date = excluded.posted_date,
   salary = excluded.salary,
   season = excluded.season,
+  advanced_degree = excluded.advanced_degree,
   tags = excluded.tags,
   categories = excluded.categories,
   last_seen_at = excluded.last_seen_at,
@@ -55,6 +57,7 @@ ON CONFLICT(id) DO UPDATE SET
 const ADDED_COLUMNS = [
   { name: "salary", type: "TEXT" },
   { name: "season", type: "TEXT" },
+  { name: "advanced_degree", type: "INTEGER" },
 ];
 
 function migrate(db: DatabaseSync): void {
@@ -88,6 +91,7 @@ export function storeJobs(jobs: Job[]): void {
         job.postedDate,
         job.salary ?? null,
         job.season ?? null,
+        job.advancedDegree ? 1 : null,
         JSON.stringify(job.tags),
         JSON.stringify(job.categories),
         job.firstSeenAt,
