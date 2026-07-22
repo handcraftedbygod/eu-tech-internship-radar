@@ -67,6 +67,7 @@
     {"name":"Faire","source":"greenhouse","boardToken":"faire"},
     {"name":"Duolingo","source":"greenhouse","boardToken":"duolingo"},
     {"name":"Reddit","source":"greenhouse","boardToken":"reddit"},
-    {"name":"Pinterest","source":"greenhouse","boardToken":"pinterest"}
+    {"name":"Pinterest","source":"greenhouse","boardToken":"pinterest"},
+    {"name":"Cloudflare","source":"greenhouse","boardToken":"cloudflare"}
   ]
 }
