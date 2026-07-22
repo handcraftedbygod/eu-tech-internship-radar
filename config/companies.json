@@ -70,6 +70,7 @@
     {"name":"Pinterest","source":"greenhouse","boardToken":"pinterest"},
     {"name":"Cloudflare","source":"greenhouse","boardToken":"cloudflare"},
     {"name":"Confluent","source":"greenhouse","boardToken":"confluent"},
-    {"name":"MongoDB","source":"greenhouse","boardToken":"mongodb"}
+    {"name":"MongoDB","source":"greenhouse","boardToken":"mongodb"},
+    {"name":"Elastic","source":"greenhouse","boardToken":"elastic"}
   ]
 }
