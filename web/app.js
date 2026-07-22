@@ -56,13 +56,37 @@ let sortDir = -1;
 let activeHub = "";
 let activeRole = ROLE_PRESETS[0].label;
 let remoteOnly = false;
+let savedOnly = false;
 let visibleCount = PAGE_SIZE;
+
+// No login/backend on a static GitHub Pages site, so bookmarks live in
+// localStorage -- scoped to this browser, but persistent across visits
+// (unlike sessionStorage) until the user clears site data.
+const SAVED_KEY = "savedJobIds";
+
+function loadSaved() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(SAVED_KEY) || "[]"));
+  } catch {
+    return new Set();
+  }
+}
+
+let savedIds = loadSaved();
+
+function toggleSaved(id) {
+  if (savedIds.has(id)) savedIds.delete(id);
+  else savedIds.add(id);
+  localStorage.setItem(SAVED_KEY, JSON.stringify([...savedIds]));
+  render();
+}
 
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
 const roleChipsEl = document.getElementById("role-chips");
 const remoteToggle = document.getElementById("remote-toggle");
+const savedToggle = document.getElementById("saved-toggle");
 const countEl = document.getElementById("count");
 const emptyState = document.getElementById("empty-state");
 const themeToggle = document.getElementById("theme-toggle");
@@ -89,7 +113,8 @@ function render() {
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
     const matchesHub = !activeHub || hubFor(job) === activeHub;
     const matchesRemote = !remoteOnly || isRemote(job);
-    return matchesQuery && matchesHub && matchesRemote && matchesRole(job, activeRole);
+    const matchesSaved = !savedOnly || savedIds.has(job.id);
+    return matchesQuery && matchesHub && matchesRemote && matchesSaved && matchesRole(job, activeRole);
   });
 
   rows.sort((a, b) => {
@@ -104,6 +129,7 @@ function render() {
     .map(
       (job) => `
     <tr data-url="${escapeAttr(job.url)}" tabindex="0">
+      <td>${starButton(job)}</td>
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
@@ -131,6 +157,12 @@ function relativeDate(isoDate) {
   if (days <= 0) return "Today";
   if (days === 1) return "1d ago";
   return `${days}d ago`;
+}
+
+function starButton(job) {
+  const saved = savedIds.has(job.id);
+  const label = saved ? "Remove bookmark" : "Save";
+  return `<button type="button" class="star-btn${saved ? " saved" : ""}" data-id="${escapeAttr(job.id)}" aria-label="${label}" title="${label}">${saved ? "★" : "☆"}</button>`;
 }
 
 function postedCell(isoDate) {
@@ -217,12 +249,24 @@ remoteToggle.addEventListener("click", () => {
   resetPageAndRender();
 });
 
+savedToggle.addEventListener("click", () => {
+  savedOnly = !savedOnly;
+  savedToggle.classList.toggle("active", savedOnly);
+  savedToggle.setAttribute("aria-pressed", String(savedOnly));
+  resetPageAndRender();
+});
+
 loadMoreBtn.addEventListener("click", () => {
   visibleCount += PAGE_SIZE;
   render();
 });
 
 tbody.addEventListener("click", (e) => {
+  const starBtn = e.target.closest(".star-btn");
+  if (starBtn) {
+    toggleSaved(starBtn.dataset.id);
+    return;
+  }
   if (e.target.closest("a")) return; // let the title link's own navigation happen
   const row = e.target.closest("tr[data-url]");
   if (row) window.open(row.dataset.url, "_blank", "noopener");
@@ -230,6 +274,7 @@ tbody.addEventListener("click", (e) => {
 
 tbody.addEventListener("keydown", (e) => {
   if (e.key !== "Enter") return;
+  if (e.target.closest(".star-btn")) return; // the button handles its own Enter/click
   const row = e.target.closest("tr[data-url]");
   if (row) window.open(row.dataset.url, "_blank", "noopener");
 });
