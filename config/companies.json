@@ -69,6 +69,7 @@
     {"name":"Reddit","source":"greenhouse","boardToken":"reddit"},
     {"name":"Pinterest","source":"greenhouse","boardToken":"pinterest"},
     {"name":"Cloudflare","source":"greenhouse","boardToken":"cloudflare"},
-    {"name":"Confluent","source":"greenhouse","boardToken":"confluent"}
+    {"name":"Confluent","source":"greenhouse","boardToken":"confluent"},
+    {"name":"MongoDB","source":"greenhouse","boardToken":"mongodb"}
   ]
 }
