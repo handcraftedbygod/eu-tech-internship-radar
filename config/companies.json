@@ -58,6 +58,7 @@
     {"name":"Affirm","source":"greenhouse","boardToken":"affirm"},
     {"name":"Asana","source":"greenhouse","boardToken":"asana"},
     {"name":"Dropbox","source":"greenhouse","boardToken":"dropbox"},
-    {"name":"Squarespace","source":"greenhouse","boardToken":"squarespace"}
+    {"name":"Squarespace","source":"greenhouse","boardToken":"squarespace"},
+    {"name":"Gusto","source":"greenhouse","boardToken":"gusto"}
   ]
 }
