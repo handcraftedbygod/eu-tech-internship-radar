@@ -78,6 +78,7 @@
     {"name":"Applied Intuition","source":"greenhouse","boardToken":"appliedintuition"},
     {"name":"Attentive","source":"lever","company":"attentive"},
     {"name":"Ramp","source":"lever","company":"ramp"},
-    {"name":"Brex","source":"lever","company":"brex"}
+    {"name":"Brex","source":"lever","company":"brex"},
+    {"name":"Plaid","source":"lever","company":"plaid"}
   ]
 }
