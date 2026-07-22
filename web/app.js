@@ -107,7 +107,7 @@ function render() {
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
-      <td>${job.postedDate ? new Date(job.postedDate).toLocaleDateString() : "-"}</td>
+      <td>${job.postedDate ? relativeDate(job.postedDate) : "-"}</td>
     </tr>`,
     )
     .join("");
@@ -120,6 +120,16 @@ function render() {
   loadMoreBtn.textContent = `Load ${Math.min(PAGE_SIZE, remaining)} more (${remaining} remaining)`;
 
   updateSortCarets();
+}
+
+// Every listing is <= settings.maxAgeDays old by the time it's exported, so a
+// relative label ("Today", "2d ago") is more scannable than a raw date and
+// never needs to fall back to a long-form date.
+function relativeDate(isoDate) {
+  const days = Math.floor((Date.now() - new Date(isoDate).getTime()) / (24 * 60 * 60 * 1000));
+  if (days <= 0) return "Today";
+  if (days === 1) return "1d ago";
+  return `${days}d ago`;
 }
 
 function escapeHtml(str) {
