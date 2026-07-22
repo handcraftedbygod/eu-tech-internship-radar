@@ -1,8 +1,11 @@
 const ROLE_PRESETS = [
   { label: "All roles", keywords: [] },
   { label: "Software Engineering", keywords: ["software", "engineer", "developer", "backend", "frontend", "full stack", "devops"] },
-  { label: "Data & Analytics", keywords: ["data", "analytics", "analyst", "bi ", "machine learning", "ml "] },
-  { label: "Product & Design", keywords: ["product", "design", "ux", "ui "] },
+  { label: "Data Science, AI & Machine Learning", keywords: ["data science", "data scientist", "data", "analytics", "analyst", "machine learning", "ai ", "artificial intelligence"] },
+  { label: "Quantitative Finance", keywords: ["quant", "quantitative"] },
+  { label: "Hardware Engineering", keywords: ["hardware", "embedded", "firmware", "electrical engineer", "mechanical engineer"] },
+  { label: "Product Engineering", keywords: ["product engineer"] },
+  { label: "Product & Design", keywords: ["product manager", "product management", "design", "ux", "ui "] },
   { label: "Business & Marketing", keywords: ["marketing", "sales", "business", "growth", "operations"] },
 ];
 
