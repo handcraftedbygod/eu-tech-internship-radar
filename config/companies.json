@@ -55,6 +55,7 @@
     {"name":"Robinhood","source":"greenhouse","boardToken":"robinhood"},
     {"name":"Coinbase","source":"greenhouse","boardToken":"coinbase"},
     {"name":"Databricks","source":"greenhouse","boardToken":"databricks"},
-    {"name":"Affirm","source":"greenhouse","boardToken":"affirm"}
+    {"name":"Affirm","source":"greenhouse","boardToken":"affirm"},
+    {"name":"Asana","source":"greenhouse","boardToken":"asana"}
   ]
 }
