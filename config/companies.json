@@ -86,6 +86,7 @@
     {"name":"Rippling","source":"lever","company":"rippling"},
     {"name":"Deel","source":"lever","company":"deel"},
     {"name":"Notion","source":"lever","company":"notion"},
-    {"name":"Webflow","source":"lever","company":"webflow"}
+    {"name":"Webflow","source":"lever","company":"webflow"},
+    {"name":"Segment","source":"lever","company":"segment"}
   ]
 }
