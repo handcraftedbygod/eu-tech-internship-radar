@@ -1,9 +1,9 @@
 {
-  "name": "eu-tech-internship-radar",
+  "name": "tech-internship-radar",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Daily-refreshing tracker of internship listings across European tech hubs.",
+  "description": "Daily-refreshing internship tracker for European & North American tech hubs.",
   "engines": {
     "node": ">=22"
   },
