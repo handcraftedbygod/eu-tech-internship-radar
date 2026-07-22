@@ -24,6 +24,7 @@ const HUBS = [
   { name: "Barcelona", match: ["barcelona"] },
   { name: "Lisbon", match: ["lisbon", "lisboa"] },
   { name: "Zurich", match: ["zurich", "zürich"] },
+  { name: "New York", match: ["new york", "nyc"] },
 ];
 const OTHER_HUB = "Other";
 

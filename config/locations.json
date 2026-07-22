@@ -13,7 +13,8 @@
     { "city": "Warsaw", "country": "PL", "adzunaCountry": "pl", "aliases": ["Warsaw", "Poland"] },
     { "city": "Barcelona", "country": "ES", "adzunaCountry": "es", "aliases": ["Barcelona", "Spain"] },
     { "city": "Lisbon", "country": "PT", "adzunaCountry": null, "aliases": ["Lisbon", "Portugal"] },
-    { "city": "Zurich", "country": "CH", "adzunaCountry": null, "aliases": ["Zurich", "Zürich", "Switzerland"] }
+    { "city": "Zurich", "country": "CH", "adzunaCountry": null, "aliases": ["Zurich", "Zürich", "Switzerland"] },
+    { "city": "New York", "country": "US", "adzunaCountry": "us", "aliases": ["New York", "NYC", "New York City"] }
   ],
   "allowRemoteGlobal": true
 }
