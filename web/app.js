@@ -28,6 +28,7 @@ const HUBS = [
   { name: "San Francisco", match: ["san francisco", "bay area", "san jose", "silicon valley"] },
   { name: "Seattle", match: ["seattle"] },
   { name: "Austin", match: ["austin"] },
+  { name: "Toronto", match: ["toronto"] },
 ];
 const OTHER_HUB = "Other";
 
