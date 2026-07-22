@@ -163,3 +163,13 @@ test("leaves season undefined when the title has no season+year", () => {
   const result = filterJobs([job({ title: "Software Engineering Intern" })], keywords, locations, settings);
   assert.equal(result[0].season, undefined);
 });
+
+test("normalizes season capitalization regardless of title casing", () => {
+  const result = filterJobs(
+    [job({ title: "intern - SUMMER 2027 cohort" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result[0].season, "Summer 2027");
+});
