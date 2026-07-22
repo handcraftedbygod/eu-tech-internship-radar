@@ -77,6 +77,13 @@ header p {
   margin-top: 0.35rem;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
 #rss-link,
 #theme-toggle {
   flex-shrink: 0;
@@ -131,6 +138,25 @@ header p {
   flex-direction: column;
   gap: 0.75rem;
   margin-bottom: 1.75rem;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding: 1rem;
+  border: 1px solid var(--divider);
+  border-radius: 12px;
+}
+
+.filter-label {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.4rem;
 }
 
 .search-field {

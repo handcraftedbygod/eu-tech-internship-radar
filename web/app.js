@@ -117,6 +117,7 @@ const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
 const seasonChipsEl = document.getElementById("season-chips");
+const seasonGroupEl = document.getElementById("season-group");
 const roleChipsEl = document.getElementById("role-chips");
 const remoteToggle = document.getElementById("remote-toggle");
 const savedToggle = document.getElementById("saved-toggle");
@@ -242,7 +243,7 @@ function renderHubChips() {
 // stays hidden until there's at least one to filter by.
 function renderSeasonChips() {
   const seasons = [...new Set(allJobs.map((j) => j.season).filter(Boolean))].sort();
-  seasonChipsEl.hidden = seasons.length === 0;
+  seasonGroupEl.hidden = seasons.length === 0;
   if (seasons.length === 0) return;
   const labels = ["All seasons", ...seasons];
   renderChips(seasonChipsEl, labels, activeSeason || "All seasons", (label) => {
