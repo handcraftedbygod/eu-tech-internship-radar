@@ -77,7 +77,7 @@
     "country": null,
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7588655003?gh_jid=7588655003",
     "source": "greenhouse",
-    "postedDate": "2026-07-08T04:37:16-04:00",
+    "postedDate": "2026-07-23T09:11:09-04:00",
     "tags": [
       "intern"
     ],
@@ -91,7 +91,7 @@
     "country": null,
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7784708003?gh_jid=7784708003",
     "source": "greenhouse",
-    "postedDate": "2026-07-08T04:37:18-04:00",
+    "postedDate": "2026-07-23T09:08:47-04:00",
     "tags": [
       "intern"
     ],
@@ -147,7 +147,7 @@
     "country": null,
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7719330003?gh_jid=7719330003",
     "source": "greenhouse",
-    "postedDate": "2026-07-08T04:37:19-04:00",
+    "postedDate": "2026-07-23T09:10:36-04:00",
     "tags": [
       "intern"
     ],
@@ -8989,5 +8989,1211 @@
       "internship"
     ],
     "firstSeenAt": "2026-07-23T06:29:31.524Z"
+  },
+  {
+    "id": "a26e5749906a297c71d5a39ea7a67006423765ff",
+    "title": "Internship in High Precision Metrology (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5806376680?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=F91A191968E5439A7169A270E9A76384EF27396B",
+    "source": "adzuna",
+    "postedDate": "2026-07-18T23:19:55Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "2346e7140f11d57e2dc3fa12cf50f2b8ef154e9c",
+    "title": "Internship – Physically Based Rendering, Vulkan & Digital Twins (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5809161379?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=3D7BCDE1922698150DBA9F1E774BC882E16E6777",
+    "source": "adzuna",
+    "postedDate": "2026-07-21T11:24:47Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c43a93631542b27294f6de33dd282e31633b5b48",
+    "title": "Internship or Master Thesis on Quantum-Based Optimization (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5811976202?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=CF94AFB894B1BA8E59B897D36692F4EA6D454B45",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T08:25:55Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6f8248cd239e0395ea71d311b912ae103409fa44",
+    "title": "Internship International Business Development Management, Sales (Focus Italy)",
+    "company": "Italia Marketing GmbH",
+    "location": "Bonn, Nordrhein-Westfalen",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5806162522?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=542A0640E45F4E5DF2129F3B6EBF17E92E82765C",
+    "source": "adzuna",
+    "postedDate": "2026-07-18T15:31:54Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "569a273430c6870de89e83b1db6e6df72b53d8c9",
+    "title": "Junior / Senior ClimateTech Internship (m/f/d)",
+    "company": "NetZero GmbH",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5806256580?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=B409950D392BA3B5460A0A76CADAE5A288E41803",
+    "source": "adzuna",
+    "postedDate": "2026-07-18T17:38:02Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "f7b5262ca6a1b2c547b7b4121d1b7bd029d23e1a",
+    "title": "Internship Coating Development & Analysis (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810549611?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=CC703D933DEBC3F6525A746C6E0E565959FE3319",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:26:17Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "394c9456cf74a49b9b891ed26af463517241f864",
+    "title": "Internship Graphic & Communication Design (m/f/d)",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5808314490?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=6F356A7E75308F13AC2645C52CA2BF7209EDFD0C",
+    "source": "adzuna",
+    "postedDate": "2026-07-20T19:17:20Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "8771975de23fa18bd978600ec4564a07db6f6716",
+    "title": "Intern Legal AI: AI Regulations, Ethics & Digital Regulations (mandatory internship)",
+    "company": "Mercedes-Benz Group AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5811112913?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=E081E23C611B0F662F1449F199600B4B1E5A11E0",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T19:12:48Z",
+    "tags": [
+      "intern",
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c837ae129a208c897a20ec3ddd3fc9590a274140",
+    "title": "Internship – Physically Based Rendering, Vulkan & Digital Twins (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810539930?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=61479AD3DA628ED2B4CC892385B9E66ED4FD6404",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:24:23Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "43ed03a71b249c8e1aeef15696ee6ea3210bc4a9",
+    "title": "Junior / Senior ClimateTech Internship (m/f/d)",
+    "company": "NetZero GmbH",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810572419?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=50E07AA1A24B20F9A910066E84BEDBF745D37ED3",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:31:54Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6827a5d94e14f59b0ca1df53c5c475cc00e13c5c",
+    "title": "Internship International Business Development Management, Sales (Focus Italy)",
+    "company": "Italia Marketing GmbH",
+    "location": "Bonn, Nordrhein-Westfalen",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810555101?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A91764A6AF9D0ABA0B47F9943501C5A620BA9A31",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:27:37Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "751596e395f9aa27dd634881e34c54f717970067",
+    "title": "Internship or Master Thesis on Quantum-Based Optimization (f/m/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen, Ostalbkreis",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810530921?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=CEFCD3BC169D43178FC48255ED725C19CBB5CE3E",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:22:36Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c48c0dda604f496a2c7d8f2adbc14205c48bf1e1",
+    "title": "Internship – Industry Marketing Excellence, Digitalization & AI (m/f/dx)",
+    "company": "tesa SE",
+    "location": "Hamburg, Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5809582216?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=AB7AEEF3E8878D37238E93299E5DF8AA522A9A1D",
+    "source": "adzuna",
+    "postedDate": "2026-07-21T19:12:10Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "90a6bc61e7f0a0ef956f674ed8d1faeef161c880",
+    "title": "Internship Strategic Marketing Premium Cataract Workflow (f/m/x)",
+    "company": "ZEISS",
+    "location": "Berlin, Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5811112435?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=ECCB4D7F9A25DD4D8FB59A943E68760383417DFF",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T19:12:37Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "7e22f5f6b03d4dc1a2e43db78a80c7588ca41011",
+    "title": "Associate Product Owner (m/w/d) (APO) Summer Internship",
+    "company": "CHECK24",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810562833?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=E15611BC2457E9668C52BE83D4CD541E66D73A1B",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:29:19Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "74ad96626075606c5ce5d77e6dc9ff41abbd0116",
+    "title": "Chief of Staff to Head of People Internship (m/f/d)",
+    "company": "Buena",
+    "location": "Berlin, Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810550963?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A4A3250DF31B77EAC8B25F678DA6CB826DE40A75",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:26:38Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "036ea3cf303862d86d8be74fcae8cb083d3c9e1a",
+    "title": "Intern Insurance Customer Journey (Mandatory Internship)",
+    "company": "Mercedes-Benz AG",
+    "location": "Stuttgart, Baden-Württemberg",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810554988?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=1E3B3D17ADA1A5EFE7692E633E8B2EEBE3D31D56",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:27:36Z",
+    "tags": [
+      "intern",
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ed000c22cc3d4326ac03556926ad7812f5024220",
+    "title": "Internship Strategic Projects (f/m/x)",
+    "company": "ZEISS",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810590929?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=3725AFAEACF62CBFA8CB7C437C477F9E010EC310",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:36:44Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c174de4c1314739a93f9461b74bf8ed8b2399825",
+    "title": "Internship in IT Communication starting September 2026",
+    "company": "Daimler Truck AG",
+    "location": "Leinfelden-Echterdingen, Esslingen (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810595430?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=0F634287155997991E9FD43F8440E01075EEB546",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:37:52Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "06a48fe358cb95737d1fd937a2fa833111b6fb4e",
+    "title": "Internship Graphic & Communication Design (m/f/d)",
+    "company": "Münchener Rückversicherungs-Gesellschaft AG",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810589005?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=0334EAAE912A49BD6ED03DF6F50C91FE0379C757",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:36:17Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "9b6ed5a58dfa5133ed3ec7c773d4f7fee3aeb44d",
+    "title": "IT Digital Workplace Internship - Workspace Operation Specialist Support (d/f/m)",
+    "company": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+    "location": "Donauwörth, Donau-Ries (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5811139723?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=D951F3558CD97BA3764BF3FB6B14359348F4A47D",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T21:46:06Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ed3e07239d5dff77ae64e57cef06135e82cb1583",
+    "title": "Internship – Industry Marketing Excellence, Digitalization & AI (m/f/dx)",
+    "company": "tesa SE",
+    "location": "Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810582081?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=5BA5A4ED829FC8A4560DCF300BFD920DCDF83E96",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:34:26Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "b9735419b502b4e9dfaef22e528c0f7670107bcd",
+    "title": "Internship in Motion Generation for Agricultural Robotics (f/m/x)",
+    "company": "ZEISS",
+    "location": "Eggenstein-Leopoldshafen, Karlsruhe (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810590458?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=9C6E82FE5B5083410D90D0C15FD6B00500DC3038",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:36:38Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "0603d6cc6abe124caed5dd3245b41fe3c2c78dd2",
+    "title": "Internship – Post Merger Integration (PMI) Excellence (f/m/x)",
+    "company": "ZEISS",
+    "location": "München, München (Kreis)",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810593226?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=F18DA5B6EAC8F153C3E457CCFE0FE852569E008B",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T10:37:20Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "8ad127027b9ef91d13cccca4ea0232d4d3fab93c",
+    "title": "Internship Strategic Marketing Premium Cataract Workflow (f/m/x)",
+    "company": "ZEISS",
+    "location": "Berlin, Deutschland",
+    "country": "DE",
+    "url": "https://www.adzuna.de/land/ad/5810790382?se=NnXVNiiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=22DCCBE34FEDEA8F4BFD3B4D998194B98773EF9A",
+    "source": "adzuna",
+    "postedDate": "2026-07-22T12:39:36Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "fa0257c2ef29d38d390b31b98810640f74d43421",
+    "title": "Restaurant Internship",
+    "company": "Courtyard by Marriott Amsterdam",
+    "location": "Amsterdam, Noord-Holland",
+    "country": "NL",
+    "url": "https://www.adzuna.nl/land/ad/5811479486?se=mEhyNyiH8RGLydTv-xFUug&utm_medium=api&utm_source=9141e2e6&v=47EA4913B41A220FCBDE9E526A9C68D565DE0176",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T01:14:28Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "915c4ea6cda1c98ee20dd4bc80121bb8b0001eeb",
+    "title": "Internship – Test Automation Engineer",
+    "company": "ABB",
+    "location": "Polska",
+    "country": "PL",
+    "url": "https://www.adzuna.pl/details/5812970411?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-24T01:22:32Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ba22713bbc0ab0b2cff1efdb0eac53d3be67b968",
+    "title": "Internship Program in Vendor Master Data",
+    "company": "LyondellBasell Poznań",
+    "location": "Poznań, wielkopolskie",
+    "country": "PL",
+    "url": "https://www.adzuna.pl/details/5811999780?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T09:22:32Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "302b8cb51d1fd329162138e160c59d572714616c",
+    "title": "Internship - Housekeeping - (Barcelona)",
+    "company": "Hotel Mandarin Oriental Barcelona",
+    "location": "Barcelona",
+    "country": "ES",
+    "url": "https://www.adzuna.es/land/ad/5808960528?se=pKVhOSiH8RGLQJF2Y824Cg&utm_medium=api&utm_source=9141e2e6&v=4C21F57E440B8DDF67F6DF7EB5EF3ABADB5011BB",
+    "source": "adzuna",
+    "postedDate": "2026-07-21T10:11:52Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "752d7a4ed816a4fb90af0b48854a9d5694a23372",
+    "title": "Spain Internship Program",
+    "company": "Edwards Lifesciences Corp",
+    "location": "España",
+    "country": "ES",
+    "url": "https://www.adzuna.es/details/5813143516?utm_medium=api&utm_source=9141e2e6",
+    "source": "adzuna",
+    "postedDate": "2026-07-24T03:25:51Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6de23ad99e85f64c0ad3e2d4826e763b32c93369",
+    "title": "Registered Nuse I - Nursing Internship (71111)",
+    "company": "CHRISTUS Health",
+    "location": "Bossier City, Bossier Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166972?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=0EC9C5B23E2CB194303DDB4EC5A881B4BC3089AE",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:57Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "946d83f229fb25c9b4d68e638bd4057777f90c4c",
+    "title": "Nurse Extern I - Nursing Internship (70576)",
+    "company": "CHRISTUS Health",
+    "location": "Pine Prairie, Evangeline Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167373?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=354FC3C093495F8FFD31B62E24E308772E8BC1FA",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:45:03Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c757af482b7476b6e1398a627e4fc19f06c39194",
+    "title": "Nurse Extern I - Nursing Internship (71323)",
+    "company": "CHRISTUS Health",
+    "location": "Ruby, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167226?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=9279AB608B8BBB294D786FC9441740DC5574C489",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:45:00Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ef2622d32b4184968647c8adfb0190415edb00a7",
+    "title": "Registered Nuse I - Nursing Internship (71037)",
+    "company": "CHRISTUS Health",
+    "location": "Bodcau, Bossier Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167427?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=EF11B3932FF1E547A475B446788C8C0725279C60",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:45:04Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "7e86d7ece86a5f8242da4daaa63826affd84bed6",
+    "title": "Registered Nuse I - Nursing Internship (71027)",
+    "company": "CHRISTUS Health",
+    "location": "Holly, De Soto Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167287?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=B872B9420ACBDE0899BE67EE937C5B07A55FCC79",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:45:01Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6ae11dcdea297a880167df325a4f68730d461318",
+    "title": "Registered Nuse I - Nursing Internship (75659)",
+    "company": "CHRISTUS Health",
+    "location": "Jonesville, Harrison County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164226?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=1EF7AA85163B0E4DE87DC3716208559E97FE8F2A",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:17Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "803309c07c54864b565ce7c38dd1b2138caaf85a",
+    "title": "Nurse Extern I - Nursing Internship (71360)",
+    "company": "CHRISTUS Health",
+    "location": "Paradise, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165557?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=5B4928F6B88B7C2B5EE1238E663AA90CEC38FFEC",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:37Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "e48940ef22621c2c3135efa5a87ae3e3501b3428",
+    "title": "Nurse Extern I - Nursing Internship (71346)",
+    "company": "CHRISTUS Health",
+    "location": "Chickama, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164528?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=C8D76D9B72F3FEC704D92426099005F2EADC17CC",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:21Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6eacc9fdfc446d754db3c2f61851baab7eb38bcc",
+    "title": "Registered Nuse I - Nursing Internship (75642)",
+    "company": "CHRISTUS Health",
+    "location": "De Berry, Panola County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165752?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=D7A5E63961A4F30187C94B15897BD58DA0066CBB",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:41Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "0aebe73af3250bab06c4e2d84a7721783c7652a6",
+    "title": "Registered Nuse I - Nursing Internship (71110)",
+    "company": "CHRISTUS Health",
+    "location": "US",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165243?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A23F351B40ED72770530F771587756ACEC886B17",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:32Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "f7c8eb1ad95028a6589ad5eb1b1197ad41e445d7",
+    "title": "Registered Nuse I - Nursing Internship (71067)",
+    "company": "CHRISTUS Health",
+    "location": "Fillmore, Bossier Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165278?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=6CBE25274818D0A1A4F9B0AF4768C3DC8750B52C",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:32Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "a400be584fc957e3524b74bbcfbba60af3a9ab08",
+    "title": "Nurse Extern I - Nursing Internship (71350)",
+    "company": "CHRISTUS Health",
+    "location": "Mansura, Avoyelles Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164030?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=7DBEC54DA9D99D6F9410F7917066DF3F39F0E30B",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:14Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "58b00745b01c61131d03a7433ee83ac14240e635",
+    "title": "Nurse Extern I - Nursing Internship (71409)",
+    "company": "CHRISTUS Health",
+    "location": "Cotile, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164644?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=76296B68A1693AA6C018BC2C6958AD6B23B12594",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:22Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "9c768ce1b6a1e19d4897a2327ef1aafa68c21d5d",
+    "title": "Nurse Extern I - Nursing Internship (71455)",
+    "company": "CHRISTUS Health",
+    "location": "Gorum, Natchitoches Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164779?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=1600ECBE5CE866DBE2B1FD34BAA3ABBD4CF5D26A",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:24Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "0ff8d841177a531fed017ca37360bd8eab1a5e2e",
+    "title": "Registered Nuse I - Nursing Internship (71061)",
+    "company": "CHRISTUS Health",
+    "location": "Caddo, Caddo Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166148?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=B21D36EDC660715844F111101DE429ACAEF41970",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:46Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "0ee435322e1bd292548d0455258dd16276ccd6d7",
+    "title": "Registered Nuse I - Nursing Internship (71078)",
+    "company": "CHRISTUS Health",
+    "location": "Stonewall, De Soto Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166341?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=D03A2D2AD4996EEC0770597AC1AC65E44590B3E2",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:48Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "13005c3c6cea29505c864e3098997ddbdf16be62",
+    "title": "Registered Nuse I - Nursing Internship (75661)",
+    "company": "CHRISTUS Health",
+    "location": "Karnack, Harrison County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166418?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=4BFBDD4071399D26C7145DB048757044590851F7",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:49Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "32931d4f29e02a38c57131d178eea270aed2c034",
+    "title": "Registered Nuse I - Nursing Internship (71105)",
+    "company": "CHRISTUS Health",
+    "location": "Youree, Caddo Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166469?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=1CDD7F7282A9AF8B27F99F032182F05E7426C471",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:50Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c726ba8c22c6818409e13fc1623e2c3845b74362",
+    "title": "Registered Nuse I - Nursing Internship (71052)",
+    "company": "CHRISTUS Health",
+    "location": "Mansfield, De Soto Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165564?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=F61728A69AAF4A601ACC8EB06394268FE1157AA9",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:37Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ce080134d9716f2b868752280303ff20b8f10aeb",
+    "title": "Registered Nuse I - Nursing Internship (75692)",
+    "company": "CHRISTUS Health",
+    "location": "Waskom, Harrison County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166356?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A92126D5B39850ED1E6C1568EC8DB174DFEDFD05",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:49Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "e42b7031af55d8eedd82bc63d2f1f7bb8d909b2b",
+    "title": "Nurse Extern I - Nursing Internship (71479)",
+    "company": "CHRISTUS Health",
+    "location": "Flat Creek, LaSalle Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166270?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A335921CDE6E8994390B38EC514147737C9D9BCE",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:48Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "8a628a6403f27736d686171c5522e3127bf961d4",
+    "title": "Registered Nuse I - Nursing Internship (71004)",
+    "company": "CHRISTUS Health",
+    "location": "Dixie, Caddo Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167048?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=6F29B6752415AFBF34DE4576F2D7C089881BA9B6",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:58Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "68820b041f8615a2de151cb396e8bf46af156642",
+    "title": "Nurse Extern I - Nursing Internship (71477)",
+    "company": "CHRISTUS Health",
+    "location": "Tioga, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166936?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=EE14A1DA22CC39CD2665EFBB5850A68031A24488",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:56Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "eabe914ae73e1f73e2a9a1c77de77b3cbe533cf2",
+    "title": "Nurse Extern I - Nursing Internship (71341)",
+    "company": "CHRISTUS Health",
+    "location": "New Belledeau, Avoyelles Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167129?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=100DF2007B30200E6AF78E9B41F570DDF37EBD8A",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:59Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "b82017627af14ba108af3c52b681c970adc13884",
+    "title": "Nurse Extern I - Nursing Internship (71331)",
+    "company": "CHRISTUS Health",
+    "location": "Moncla, Avoyelles Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166668?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=A93D23FFB9F3430A0556F47705644351F806EC41",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:52Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "3a7e852bb9b3409edb7746d64a764c88321dac97",
+    "title": "Nurse Extern I - Nursing Internship (71430)",
+    "company": "CHRISTUS Health",
+    "location": "Forest Hill, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166364?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=CA3E445D92496F6D4284573081DBD71E470C4901",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:49Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "58add4c7affa5c886e9a8c165ffaa1de5fd52264",
+    "title": "Nurse Extern I - Nursing Internship (71475)",
+    "company": "CHRISTUS Health",
+    "location": "Slagle, Vernon Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166612?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=6351CBE1CE3AB464DD4D80EAAFDD56E881846E06",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:52Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "d8e1332688b8a637a7657dc951a6f282f5f33a7f",
+    "title": "Nurse Extern I - Nursing Internship (71423)",
+    "company": "CHRISTUS Health",
+    "location": "Bentley, Grant Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164762?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=76F69E7A7FD85A6584FB46BC2D0F6B3838B8D7EF",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:24Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "97e70bef81a5c6eb6b65a229f34f6f14ab1893a6",
+    "title": "Nurse Extern II - Nursing Internship (87535)",
+    "company": "CHRISTUS Health",
+    "location": "Glorieta, Santa Fe County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163604?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=BB4FBB1977BBAA6CAA8650549F83A40FD8AA748C",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:08Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "cf9eccfb8b29065c44eff797a924ffb11260791a",
+    "title": "Nurse Extern I - Nursing Internship (71405)",
+    "company": "CHRISTUS Health",
+    "location": "Pollock, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166057?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=533B5A7A00B3F97E1BD96BF80A4F64F4CD543C35",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:45Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "65f1b69d813e7d25a91cf0ee494e34b7a6d5cb92",
+    "title": "Registered Nuse I - Nursing Internship (71064)",
+    "company": "CHRISTUS Health",
+    "location": "Plain Dealing, Bossier Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813165673?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=FD54085918E188EEC711CBCA1FABC3D365FD03DA",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:39Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "06df5ba023d8ccc3192f5cd053c341f1a9af3099",
+    "title": "Nurse Extern I - Nursing Internship (71438)",
+    "company": "CHRISTUS Health",
+    "location": "Lacamp, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166427?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=F55D04C931FE60882D42D6D6AFA03EF645C8D198",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:50Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "878525ec95697ea437198172396eab3a3ab99bce",
+    "title": "Registered Nuse I - Nursing Internship (71023)",
+    "company": "CHRISTUS Health",
+    "location": "Doyline, Webster Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166820?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=CFB0957D9B99EAB320958D6EE9B4FD730A3ADF2B",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:54Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "f08a513718a71e6785913157c6c2ec8dcb1a131e",
+    "title": "Nurse Extern I - Nursing Internship (71433)",
+    "company": "CHRISTUS Health",
+    "location": "Glenmora, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167165?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=98AB9B1E6E81F34A0FA921803C3807A64877D303",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:59Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "4de72ecad456eca6d24fe543a4644ab9206d2f86",
+    "title": "Registered Nuse I - Nursing Internship (71006)",
+    "company": "CHRISTUS Health",
+    "location": "Benton, Bossier Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167401?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=58E44D6EB572FAD0313FEF1727AA8CD91C31D30B",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:45:03Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "6c91d2e2efaf05428e47809e88b81237ca64eab1",
+    "title": "Nurse Extern I - Nursing Internship (71474)",
+    "company": "CHRISTUS Health",
+    "location": "Simpson, Vernon Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163867?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=B64F21856454BDCB159DDBE34611114EEBAA9E84",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:12Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "337b847b7a9d0937f12b52cd435a111baead4e93",
+    "title": "Nurse Extern II - Nursing Internship (87565)",
+    "company": "CHRISTUS Health",
+    "location": "Soham, San Miguel County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163662?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=3CEB2DECFD5B82CAF6EBF64DD6FCA828FD038761",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:09Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "07227080c61b115fcea239c775ccf022c90e370b",
+    "title": "Registered Nuse I - Nursing Internship (71080)",
+    "company": "CHRISTUS Health",
+    "location": "Mount Lebanon, Bienville Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164632?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=DF22BD29CD63E22E88FE665113993B202618137E",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:22Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "b0f059723d25ee8c214942bd412c48dce6398c34",
+    "title": "Nurse Extern II - Nursing Internship (87537)",
+    "company": "CHRISTUS Health",
+    "location": "El Duende, Rio Arriba County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163566?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=11D94368B8D0EC1A204EF8B3D15E02B062C0E41A",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:07Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "f8df2f650a422f6bb8b0acef428e1900405cd9be",
+    "title": "Nurse Extern I - Nursing Internship (71417)",
+    "company": "CHRISTUS Health",
+    "location": "Fairmont, Grant Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163970?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=C55F4DCCC9916B9B05F7D8CB6AB6D67DE9889AD4",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:13Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "774add6f894772655c32f7d77f9063dad189fc2f",
+    "title": "Nurse Extern I - Nursing Internship (71322)",
+    "company": "CHRISTUS Health",
+    "location": "Bunkie, Avoyelles Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163809?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=4844665D0A4A026CC8E29AD66911F3801C518286",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:11Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "b893df4f7e11ac50f9b5eaca709dac87daba8ad2",
+    "title": "Nurse Extern I - Nursing Internship (71456)",
+    "company": "CHRISTUS Health",
+    "location": "Cane River, Natchitoches Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164004?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=54B756B268ACA238D679F7B12CB22CB02CF28D04",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:14Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ceb0e1a8e1d79dada7bfe7009f0dd9f6be05ab71",
+    "title": "Nurse Extern II - Nursing Internship (87532)",
+    "company": "CHRISTUS Health",
+    "location": "San Pedro, Rio Arriba County",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813163495?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=F111264CDD626B2ED42DBFEF4B0148C1CDE01F38",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:06Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "93907234133ba63b96360fc8ed34f2d7446605c3",
+    "title": "Nurse Extern I - Nursing Internship (71463)",
+    "company": "CHRISTUS Health",
+    "location": "Oakdale, Allen Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164578?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=42243FEB90BCED59D943FCB596D26051B7705597",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:21Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c67b75dc37aff03895d903e8bcba8a5d1affdb50",
+    "title": "Nurse Extern I - Nursing Internship (71301)",
+    "company": "CHRISTUS Health",
+    "location": "Alex, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813164711?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=ACB8E2B10FBBA58217FDDA47FC0FFC59A0003DF7",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:23Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "0fc809cbaa798cdc906f2ee7efa318b07504986e",
+    "title": "Nurse Extern I - Nursing Internship (71431)",
+    "company": "CHRISTUS Health",
+    "location": "Gardner, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166784?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=9B7C5C62B64EFEDCC826FA2D5BA40DEA15C94EFA",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:54Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "9e19c431cef9fe60c6c30e6d2d93de04d789e9f8",
+    "title": "Nurse Extern I - Nursing Internship (71330)",
+    "company": "CHRISTUS Health",
+    "location": "Roxana, Rapides Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166577?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=09B91327A1582C555E97BC8447935B27C4B784AC",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:51Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "fcaf3c95092347f2ccc70747fbf4a047a11b500a",
+    "title": "Registered Nuse I - Nursing Internship (71030)",
+    "company": "CHRISTUS Health",
+    "location": "Gloster, De Soto Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166896?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=8C87A15AA340D5377782F5A0DB765A7E32FC4935",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:56Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "185ebdd3a2d9a93c249866131c17ba0c00046272",
+    "title": "Nurse Extern I - Nursing Internship (71371)",
+    "company": "CHRISTUS Health",
+    "location": "Whatley Landing, LaSalle Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813167088?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=396B364194EF5594CCF4A1C34CE5AE52883F8453",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:58Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "e12dd7c919c7f217fa9a99d495bf4b6ad01cdd61",
+    "title": "Registered Nuse I - Nursing Internship (71047)",
+    "company": "CHRISTUS Health",
+    "location": "Keithville, Caddo Parish",
+    "country": "US",
+    "url": "https://www.adzuna.com/land/ad/5813166382?se=wjzUOSiH8RGmLrTSWX6gnQ&utm_medium=api&utm_source=9141e2e6&v=C3D60A56FADFB419B37066BB1BF629576D3AAC45",
+    "source": "adzuna",
+    "postedDate": "2026-07-23T21:44:49Z",
+    "tags": [
+      "internship"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "293821c4c88604e92c8e00461a4321e2c74804b4",
+    "title": "Working Student - People Development",
+    "company": "SumUp",
+    "location": "Berlin, Germany",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/working-student-people-development-berlin-62220",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T20:45:25.000Z",
+    "tags": [
+      "working student"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "bb1953e3657f450fdf44d161e2799dcb8b486d85",
+    "title": "Customer Success Werkstudent (m/w/d) - Software Startup",
+    "company": "hellomateo",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/customer-success-werkstudent-software-startup-berlin-50416",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T20:30:28.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "f23a73d7ddd15a88db6124b25d9d37adcfdcea5b",
+    "title": "Trainee Online-Marketing (w/m/d)",
+    "company": "SUCHMEISTEREI GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/trainee-online-marketing-berlin-300941",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T17:59:03.000Z",
+    "tags": [
+      "trainee"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "75a64efd994404140864f78441b4c6250b6778c2",
+    "title": "Working Student SEO Data Analyst​ (m|w|d)",
+    "company": "idealo internet GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-seo-data-analyst-mwd-berlin-39329",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T13:20:14.000Z",
+    "tags": [
+      "working student"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "ad7803727fcb63e39997491377bdd57d52e28182",
+    "title": "Werkstudent:in Video & Social Media Marketing - (m/w/d)",
+    "company": "Sunpeak Capital GmbH",
+    "location": "Berlin",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/sunpeak-capital-gmbh/werkstudentin-video-social-media-marketing-berlin-189325",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T21:59:03.000Z",
+    "tags": [
+      "werkstudent"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
+  },
+  {
+    "id": "c9e7780416938bde43dcf18e374326a3b89dabc4",
+    "title": "Founding Growth Marketer - Intern (m/w/x)",
+    "company": "OneTutor",
+    "location": "Munich",
+    "country": null,
+    "url": "https://www.arbeitnow.com/jobs/companies/onetutor/founding-growth-marketer-intern-munich-317461",
+    "source": "arbeitnow",
+    "postedDate": "2026-07-23T10:00:26.000Z",
+    "tags": [
+      "intern"
+    ],
+    "firstSeenAt": "2026-07-24T06:24:20.152Z"
   }
 ]
